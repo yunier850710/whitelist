@@ -12,5 +12,4 @@ gstatic.com
 google.com
 googleusercontent.com
 github.com
-githubusercontent.comEOF
-yahoo.com
+githubusercontent.com
