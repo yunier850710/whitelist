@@ -1,0 +1,16 @@
+# DNS Allowlist — one domain per line
+# github.com automatically covers *.github.com
+# IMPORTANT: Unix LF endings only, NOT Windows CRLF
+signifivision.com
+screenconnect.com
+teamviewer.com
+ubuntu.com
+ntp.org
+canonical.com
+googleapis.com
+gstatic.com
+google.com
+googleusercontent.com
+github.com
+githubusercontent.comEOF
+yahoo.com
