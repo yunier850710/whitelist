@@ -13,3 +13,5 @@ google.com
 googleusercontent.com
 github.com
 githubusercontent.com
+yahoo.com
+qvatel.com
